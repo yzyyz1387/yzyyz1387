@@ -8,7 +8,7 @@
 I'm **幼稚园园长**
 
 - ✏ I’m currently learning:JavaScript, Fastapi 
-- 💬 Links : [My Blog](https://yzyyz.top), [Storys](https://storys.nwafu.ac.cn)
+- 💬 Links : [My Blog](https://yzyyz.top), [Storys](https://story.nwafu.ac.cn),[VD](https://vd.nwafu.ac.cn)
 - 🎮 I'm currently playing **考研** ~~[CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)~~
 - Learning science of Agricultural 
 - <img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px">   
