@@ -1,16 +1,69 @@
-### Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px">
 
-<!--
-**yzyyz1387/yzyyz1387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yzyyz1387&show_icons=true">
 
-Here are some ideas to get you started:
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **幼稚园园长**
+
+-  🔬学习中: 研究生🐮🐴
+- 💬 一些链接:[Blog](https://yzyyz.top) 
+- 🎮 打游戏 [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)  
+- 🛰业余无线电 **BG5BHG** 期待和您空中相见
+- <img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px">   
+  
+<br>
+<a href="#" style="">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzyyz1387&hide=html">
+</a>
+
+
+## 🌟 **啥也不会**  
+![](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-HTML-e76029?style=flat-square&logo=html5&logoColor=fff)
+![](https://img.shields.io/badge/-CSS-275ee4?style=flat-square&logo=css3&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-eeca03?style=flat-square&logo=javascript&logoColor=fff)
+![](https://img.shields.io/badge/-PS-00c7f5?style=flat-square&logo=adobephotoshop&logoColor=fff)
+![](https://img.shields.io/badge/-PR-d46bf7?style=flat-square&logo=adobepremierepro&logoColor=fff)
+![](https://img.shields.io/badge/-LR-abd0e8?style=flat-square&logo=adobelightroomclassic&logoColor=fff)
+![](https://img.shields.io/badge/-AU-00d8b0?style=flat-square&logo=adobeaudition&logoColor=fff)
+
+
+
+## 📊 **本周摸鱼一览**
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->  
+
+<p align="center">
+    <a href="https://github.com/yzyyz1387"><picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="/dist/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="/dist/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="/dist/github-snake-dark.svg"
+  />
+</picture></a>
+</p>
+ 
+
+## 最近文章
+<!-- START_SECTION:blog -->
+* <a href='https://yzyyz.top/archives/10years.html' target='_blank'>十年有多久</a> - 2023-08-24
+* <a href='https://yzyyz.top/archives/ham.html' target='_blank'>浅谈业余无线电</a> - 2023-06-17
+* <a href='https://yzyyz.top/archives/1460.html' target='_blank'>1460</a> - 2023-06-17
+* <a href='https://yzyyz.top/archives/1e6de287.html' target='_blank'>FreeWater的历史</a> - 2023-03-19
+* <a href='https://yzyyz.top/archives/7915a422.html' target='_blank'>又一次出发</a> - 2023-02-07
+<!-- END_SECTION:blog -->
