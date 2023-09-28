@@ -10,7 +10,7 @@ I'm **幼稚园园长**
 -  🔬学习中: 研究生🐮🐴
 - 💬 一些链接:[Blog](https://yzyyz.top) 
 - 🎮 打游戏 [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)  
-- 🛰业余无线电 **BG5BHG** 期待和您空中相见
+- 🛰业余无线电 **BD8CWG** 期待和您空中相见
 - <img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px">   
   
 <br>
