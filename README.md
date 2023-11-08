@@ -61,9 +61,9 @@ No activity tracked
 
 ## 最近文章
 <!-- START_SECTION:blog -->
+* <a href='https://yzyyz.top/archives/nylon.html' target='_blank'>初探尼龙</a> - 2023-11-07
 * <a href='https://yzyyz.top/archives/10years.html' target='_blank'>十年有多久</a> - 2023-08-24
 * <a href='https://yzyyz.top/archives/ham.html' target='_blank'>浅谈业余无线电</a> - 2023-06-17
 * <a href='https://yzyyz.top/archives/1460.html' target='_blank'>1460</a> - 2023-06-17
 * <a href='https://yzyyz.top/archives/1e6de287.html' target='_blank'>FreeWater的历史</a> - 2023-03-19
-* <a href='https://yzyyz.top/archives/7915a422.html' target='_blank'>又一次出发</a> - 2023-02-07
 <!-- END_SECTION:blog -->
