@@ -42,8 +42,7 @@ I'm **幼稚园园长**
 <!--START_SECTION:waka-->
 
 ```txt
-Python     21 mins         ██████████████████████░░░   88.32 %
-Markdown   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Python   21 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->  
