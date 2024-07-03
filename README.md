@@ -42,11 +42,7 @@ I'm **幼稚园园长**
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   21 mins         ██████████████████░░░░░░░   71.73 %
-Text       6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-textmate   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->  
