@@ -67,5 +67,9 @@ No activity tracked
 
 ## 最近文章
 <!-- START_SECTION:blog -->
-
+* <a href='https://yzyyz.top/archives/ham.html' target='_blank'>浅谈业余无线电</a> - 2024-04-07
+* <a href='https://yzyyz.top/archives/childhood-1.html' target='_blank'>童年-1</a> - 2023-12-05
+* <a href='https://yzyyz.top/archives/114514.html' target='_blank'>要溢出来了</a> - 2023-12-05
+* <a href='https://yzyyz.top/archives/nylon.html' target='_blank'>初探尼龙</a> - 2023-11-07
+* <a href='https://yzyyz.top/archives/10years.html' target='_blank'>十年有多久</a> - 2023-08-24
 <!-- END_SECTION:blog -->
