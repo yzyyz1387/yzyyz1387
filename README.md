@@ -8,7 +8,7 @@
 I'm **幼稚园园长**
 
 -  🔬学习中: 研究生🐮🐴
-- 💬 一些链接:[Blog](https://yzyyz.top) 
+- 💬 一些链接:[Blog](https://yzyyz.top) |  [业余无线电资源](https://s.seeku.site) | [HAM梗图](https://g.seeku.site)
 - 🎮 打游戏 [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 - 👮‍♂️ 尼龙爱好者，wargame玩家 
 - 🛰业余无线电 **BD8CWG** 期待和您空中相见
