@@ -42,7 +42,8 @@ I'm **幼稚园园长**
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     2 mins          █████████████████████▓░░░   86.40 %
+Markdown   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
 ```
 
 <!--END_SECTION:waka-->  
