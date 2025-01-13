@@ -42,7 +42,11 @@ I'm **幼稚园园长**
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#               33 mins         ████████████▓░░░░░░░░░░░░   50.10 %
+Python           22 mins         ████████▒░░░░░░░░░░░░░░░░   32.70 %
+XAML             5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Config           5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->  
