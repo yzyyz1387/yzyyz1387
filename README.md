@@ -65,9 +65,5 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 ## 最近文章
 <!-- START_SECTION:blog -->
-* <a href='https://yzyyz.top/archives/xts5000.html' target='_blank'>摩托罗拉XTS5000|xts5000写频教程</a> - 2024-12-09
-* <a href='https://yzyyz.top/archives/ham.html' target='_blank'>浅谈业余无线电</a> - 2024-04-07
-* <a href='https://yzyyz.top/archives/childhood-1.html' target='_blank'>童年-1</a> - 2023-12-05
-* <a href='https://yzyyz.top/archives/114514.html' target='_blank'>要溢出来了</a> - 2023-12-05
-* <a href='https://yzyyz.top/archives/nylon.html' target='_blank'>初探尼龙</a> - 2023-11-07
+
 <!-- END_SECTION:blog -->
