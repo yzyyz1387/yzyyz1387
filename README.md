@@ -36,9 +36,7 @@ I'm **幼稚园园长**
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   9 mins          ████████████▓░░░░░░░░░░░░   51.08 %
-Markdown     8 mins          ████████████░░░░░░░░░░░░░   48.47 %
-EJS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->  
