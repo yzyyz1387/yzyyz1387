@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px">
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yzyyz1387&show_icons=true">
+  <img align="right" src="https://github-readme-stats-gules-alpha-63.vercel.app/api?username=yzyyz1387&show_icons=true">
 
 </a>
 
@@ -15,7 +15,7 @@ I'm **幼稚园园长**
   
 <br>
 <a href="#" style="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzyyz1387&hide=html">
+  <img align="right" src="https://github-readme-stats-gules-alpha-63.vercel.app/api/top-langs/?username=yzyyz1387&hide=html">
 </a>
 
 <!--
